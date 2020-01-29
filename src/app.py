@@ -8,7 +8,6 @@ def hello_world():
 
     return 'Hello, World! Atin'
 #Hello comment Added 
-Print("hello")
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
